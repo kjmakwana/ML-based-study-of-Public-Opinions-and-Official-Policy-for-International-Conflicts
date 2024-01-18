@@ -1,4 +1,5 @@
-## STATS 507
+## Voices and Geopolitics: Exploring Public Opinions and Official Policy in the Israel-Palestine Conflict
+#### School of Information, University of Michigan, Ann Arbor
 
 In response to the escalating global discourse surrounding the Israel-Palestine conflict, this project scrutinizes the disjunction between official policies and public
 sentiments, specifically within the realm of social media, with a focus on Reddit.
